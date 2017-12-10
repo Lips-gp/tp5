@@ -10,6 +10,6 @@ class Index
 
     public function test()
     {
-        return "git commit in service && other PC";
+        return "git commit in service && other PC.";
     }
 }
