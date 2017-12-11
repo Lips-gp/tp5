@@ -16,6 +16,6 @@ class Index extends Base
 
     public function test()
     {
-    	return "git commit in service";
+        return "git commit in service && other PC...";
     }
 }
